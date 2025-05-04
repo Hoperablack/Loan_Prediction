@@ -1,12 +1,6 @@
 import pandas as pd
 import joblib
 import streamlit as st
-import os
-print(os.getcwd())
-
-import os
-print("Files in directory:", os.listdir())
-
 
 st.title("Hoppy Loan App Prediction")
 
