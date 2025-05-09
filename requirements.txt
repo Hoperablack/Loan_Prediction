@@ -4,7 +4,6 @@ matplotlib==3.10.0
 numpy==2.0.2
 pandas==2.2.2
 plotly==5.24.1
-protobuf==5.29.4
 requests==2.32.3
 scikit-learn==1.6.1
 scipy==1.15.2
